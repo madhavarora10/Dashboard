@@ -1,0 +1,28 @@
+.heading{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left:15px;
+}
+.subHeading{
+    color: gray;
+    margin-top: 0;
+    margin-left:15px;
+}
+.price{
+    margin-left:15px;
+    margin-bottom: 0;
+}
+.ChartContainer{
+
+        height: 400px ;
+        width:300px;
+        margin-left:0px;
+}
+.Card{
+    background-color: #fff !important;
+    border-radius: 2rem !important;
+   
+     box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1),0px 10px 15px -3px rgba(0,0,0,0.1) !important;
+}

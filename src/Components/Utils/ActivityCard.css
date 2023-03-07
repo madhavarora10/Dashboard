@@ -1,0 +1,27 @@
+.ActivityCard{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.DateSpan{
+background-color: rgb(227, 227, 227);
+border-radius: 20px;
+display: inline-block;
+height: 55px;
+width: 50px;
+font-weight: 700;
+font-size: 12px;
+text-align: center;
+padding: 10px;
+margin-right: 10px;
+
+}
+.DateSpan>p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.Activitytext{
+    font-size: 12px;
+    font-weight: 700;
+    color: grey;
+}

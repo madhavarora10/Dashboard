@@ -1,0 +1,13 @@
+.textHeading{
+    color: grey;
+    margin-bottom: 0;
+    font-size: small;
+}
+.textPrice{
+    margin-top: 0;
+    font-size: medium;
+}
+.Overview{
+    font-weight: 600;
+    font-size: 20px;
+}

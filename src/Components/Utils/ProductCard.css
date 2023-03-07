@@ -1,0 +1,27 @@
+.blueIcon{
+    background-color: #598AE5;
+    color: white;
+    border-radius: 10px;
+   padding: 6px;
+   height: max-content;
+}
+.ProductCard{
+    display: flex;
+    justify-content: space-between;
+    padding: 13px;
+}
+.infoContainer{
+    display: flex;
+}
+.itemTitle{
+    color: gray;
+    font-size: 14px;
+    margin-top: 0;
+    margin-left: 15px;
+    margin-bottom: 0;
+
+}
+.itemPrice{
+font-size: 16px;
+margin-left: 15px;
+margin-top: 0;}
